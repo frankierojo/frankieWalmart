@@ -1,7 +1,7 @@
 # frankieWalmart
 fake walmart bot that i made for packs because i dont care.
 
--
+------------------------------------------------------------
 
 1 - run npm i
 
@@ -9,4 +9,4 @@ fake walmart bot that i made for packs because i dont care.
 
 3 - epic
 
--
+------------------------------------------------------------
